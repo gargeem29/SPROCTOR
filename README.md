@@ -1,3 +1,3 @@
 # SPROCTOR
-ML based smart proctor for OFFLINE exam to measure cheat percentage of children . Build using CV2 and MediaPipe.
-run the run.py file for output
+Won Second Runner-Up in Hack For India 2023 for developing SProctor, an offline exam proctoring solution. 
+Utilized MediaPipe for facial landmark detection to accurately identify and monitor facial features during exams, ensuring integrity and preventing cheating. Incorporated Python libraries such as TensorFlow, NumPy, and SciPy for efficient processing and analysis.
